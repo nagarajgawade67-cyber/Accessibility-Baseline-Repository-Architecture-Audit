@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/USER/OneDrive/Desktop/python/python/game"
+		},
+		{
+			"path": "C:/Users/USER/program/practice"
+		},
+		{
+			"path": "C:/Users/USER/program/java"
+		},
+		{
+			"path": "C:/Users/USER/program/html"
+		},
+		{
+			"path": "C:/Users/USER/program/nagraj"
+		},
+		{
+			"path": "C:/Users/USER/program/python"
+		},
+		{
+			"path": "C:/Users/USER/program/road-risk-app"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "road-risk-app"
+	}
+}
